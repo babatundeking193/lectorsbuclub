@@ -1,0 +1,54 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "a group of diverse people reading books together in a modern library, professional atmosphere"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "a group of diverse people reading books together in a modern library, professional atmosphere",
+  "count": 6,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ec8a8a885cdc.jpg",
+      "caption": "",
+      "source": "Belmont University",
+      "original_width": "1440px",
+      "original_height": "600px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4fc96243e3e0.jpg",
+      "caption": "",
+      "source": "LA Times",
+      "original_width": "1486px",
+      "original_height": "991px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0112193107df.jpg",
+      "caption": "",
+      "source": "Gensler",
+      "original_width": "2000px",
+      "original_height": "1125px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2e6222763f85.jpeg",
+      "caption": "",
+      "source": "Slate Magazine",
+      "original_width": "3540px",
+      "original_height": "1840px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/85d356a261bb.jpg",
+      "caption": "",
+      "source": "Bloomsbury",
+      "original_width": "852px",
+      "original_height": "1265px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/45adc791d6a2.png",
+      "caption": "",
+      "source": "Columbus School of Law",
+      "original_width": "2100px",
+      "original_height": "569px"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "group of friends reading novels together in a warm wooden library room"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "group of friends reading novels together in a warm wooden library room",
+  "count": 6,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ad2f25c0d07e.jpg",
+      "caption": "",
+      "source": "Cats & Coffee",
+      "original_width": "1707px",
+      "original_height": "2560px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/cbde28217d58.jpeg",
+      "caption": "",
+      "source": "South House Designs",
+      "original_width": "1096px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9b5c1b210a76.jpg",
+      "caption": "",
+      "source": "Inspired Closets",
+      "original_width": "2000px",
+      "original_height": "1461px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5812555abfa6.jpg",
+      "caption": "",
+      "source": "Yelp",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1521db80393f.jpg",
+      "caption": "",
+      "source": "The World Of Interiors",
+      "original_width": "2560px",
+      "original_height": "1920px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/81f31f0c01c3.jpg",
+      "caption": "",
+      "source": "Resource Furniture",
+      "original_width": "1200px",
+      "original_height": "800px"
+    }
+  ]
+}

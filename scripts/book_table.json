@@ -1,0 +1,54 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "open book with reading glasses on wooden library table near window"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "open book with reading glasses on wooden library table near window",
+  "count": 6,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/bc1058159f90.jpg",
+      "caption": "",
+      "source": "Unsplash",
+      "original_width": "3000px",
+      "original_height": "4500px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/de68274336f9.jpg",
+      "caption": "",
+      "source": "Dreamstime",
+      "original_width": "1195px",
+      "original_height": "1690px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9b66cac5463c.jpg",
+      "caption": "",
+      "source": "Mira Home Decor",
+      "original_width": "896px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b29aec5579ef.jpg",
+      "caption": "",
+      "source": "Dreamstime",
+      "original_width": "1600px",
+      "original_height": "1130px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c9017ecb0d0d.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "2048px",
+      "original_height": "2048px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/aae1d8bed87e.jpg",
+      "caption": "",
+      "source": "Lens & Frame Co.",
+      "original_width": "1600px",
+      "original_height": "1067px"
+    }
+  ]
+}

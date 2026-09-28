@@ -1,0 +1,54 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "people sitting around a table reading and discussing books in an elegant library"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "people sitting around a table reading and discussing books in an elegant library",
+  "count": 6,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8b7087504b97.jpg",
+      "caption": "",
+      "source": "Elle Decor",
+      "original_width": "1120px",
+      "original_height": "1126px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ad8daee3aff8.jpg",
+      "caption": "",
+      "source": "Livingetc",
+      "original_width": "3200px",
+      "original_height": "3999px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0a5dd07421bd.webp",
+      "caption": "",
+      "source": "Pan Macmillan",
+      "original_width": "1200px",
+      "original_height": "675px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7ce9d84925a2.jpg",
+      "caption": "",
+      "source": "CN Traveller",
+      "original_width": "6960px",
+      "original_height": "3915px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e7bc90073be8.jpg",
+      "caption": "",
+      "source": "Organized Interiors",
+      "original_width": "1600px",
+      "original_height": "1087px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0e2afd6106ad.png",
+      "caption": "",
+      "source": "Occasionally Crafty",
+      "original_width": "1890px",
+      "original_height": "1063px"
+    }
+  ]
+}

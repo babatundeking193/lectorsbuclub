@@ -1,0 +1,54 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "professional portrait of a black man with glasses in a library holding a book"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "professional portrait of a black man with glasses in a library holding a book",
+  "count": 6,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c431e1b09608.jpg",
+      "caption": "",
+      "source": "The New Yorker",
+      "original_width": "1875px",
+      "original_height": "2560px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/86eb42b2eab1.jpg",
+      "caption": "",
+      "source": "OLD GOATS with Jonathan Alter - Substack",
+      "original_width": "2434px",
+      "original_height": "1436px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/309fd4468164.jpg",
+      "caption": "",
+      "source": "LinkedIn",
+      "original_width": "800px",
+      "original_height": "1067px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/6bac89f75695.jpg",
+      "caption": "",
+      "source": "Time Sensitive",
+      "original_width": "1920px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ccc2ede0cd35.jpg",
+      "caption": "",
+      "source": "Pioneer Works",
+      "original_width": "2000px",
+      "original_height": "2000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f0493fefea18.jpg",
+      "caption": "",
+      "source": "The New Yorker",
+      "original_width": "1618px",
+      "original_height": "2157px"
+    }
+  ]
+}

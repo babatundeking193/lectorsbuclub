@@ -1,0 +1,54 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "literary society gathering readers holding books in grand vintage library"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "literary society gathering readers holding books in grand vintage library",
+  "count": 6,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0aac9dc6cbbc.jpg",
+      "caption": "",
+      "source": "Jefferson County Public Library",
+      "original_width": "1334px",
+      "original_height": "1083px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1e2311ab045f.jpg",
+      "caption": "",
+      "source": "redandblack.com",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8534696ebe0e.jpg",
+      "caption": "",
+      "source": "The New Yorker",
+      "original_width": "1500px",
+      "original_height": "1908px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c7d4f2c4a7e6.jpg",
+      "caption": "",
+      "source": "David Perell",
+      "original_width": "1567px",
+      "original_height": "1045px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d6d6daf8b1b8.jpeg",
+      "caption": "",
+      "source": "Liberties Journal",
+      "original_width": "2560px",
+      "original_height": "2292px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2c37e2ed5167.jpg",
+      "caption": "",
+      "source": "Arizona Daily Star",
+      "original_width": "1200px",
+      "original_height": "800px"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "smiling black woman reading a book on a cozy sofa"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "smiling black woman reading a book on a cozy sofa",
+  "count": 6,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/bde497f3e015.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "897px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/fad8f957b53c.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "956px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e8d3a6ef9595.png",
+      "caption": "",
+      "source": "Book Outlet",
+      "original_width": "1331px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/78e45269ee59.jpg",
+      "caption": "",
+      "source": "Netflix",
+      "original_width": "1200px",
+      "original_height": "675px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7d4ca0ead931.jpg",
+      "caption": "",
+      "source": "Relax The Back",
+      "original_width": "1024px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c73b7b03b37c.jpg",
+      "caption": "",
+      "source": "The Points Guy",
+      "original_width": "1600px",
+      "original_height": "900px"
+    }
+  ]
+}
